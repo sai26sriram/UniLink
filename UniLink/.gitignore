@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Expo
+.expo/
+.expo-shared/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment
+.env
